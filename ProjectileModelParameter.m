@@ -1,0 +1,13 @@
+r=0.0366;
+A=pi*r^2;
+m=0.145;
+C=0.5;
+rho=1.225;
+g=9.81;
+D=0.5*C*rho*A;
+v0=35;
+theta=60;
+vx=v0*cosd(theta);
+vy=v0*sind(theta);
+x0=-35;
+y0=0;

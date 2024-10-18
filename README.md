@@ -46,6 +46,9 @@ A main window will appear with three options:
 -3D Simulation: Navigates you to the 3D simulation after answering a riddle.
 -Exit: Closes the application.
 
+## Report
+If you would like more details about the equations used, the project's design, and functionality, you can find a comprehensive **report** in the `report` folder. This report provides a presentation of the project, including all the formulas and workflow explanations.
+
 ## Video Demonstration
 For a detailed walkthrough of the simulation and its features, check out the video located in the Screenshots folder called "Guide_with_examples_video". 
 This video demonstrates both the 2D and 3D simulations, showcasing the app's functionality and user interface.

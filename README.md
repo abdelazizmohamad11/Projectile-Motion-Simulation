@@ -16,22 +16,7 @@ This MATLAB project simulates projectile motion in both 2D and 3D environments u
   - Displacement
   - Highest point time
   - A visual representation describing how far the ball traveled and how high it reached.
-#### Output Of 2D simulation
-1. **Maximum Height:**  
-   This value represents the highest point the projectile reaches in the vertical axis during its flight.
-
-2. **Flight Time:**  
-   The total duration the projectile remains in motion before it lands or hits a surface.
-
-3. **Displacement:**  
-   The horizontal distance traveled by the projectile from the initial launch point to where it lands.
-
-4. **Highest Point Time:**  
-   The time at which the projectile reaches its maximum height during its flight.
-
-5. **Visual Representation:**  
-   After the simulation completes, an image is displayed showing the trajectory of the ball and human-readable text that describes its distance and height (e.g., "The ball reached the plane after traveling X meters and with a height of Y meters").
-   
+  -    
 ### 3D Simulation
 - Simulates projectile motion in a virtual 3D environment using Simulink.
 - Includes a fun riddle to solve before starting the 3D simulation:

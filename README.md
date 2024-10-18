@@ -47,7 +47,7 @@ A main window will appear with three options:
 -Exit: Closes the application.
 
 ## Report
-If you would like more details about the equations used, the project's design, and functionality, you can find a comprehensive **report** in the `report` folder. This report provides a presentation of the project, including all the formulas and workflow explanations.
+If you would like more details about the equations used, the project's design, and functionality, you can find a comprehensive **Report** in the `Report` folder. This report provides a presentation of the project, including all the formulas and workflow explanations.
 
 ## Video Demonstration
 For a detailed walkthrough of the simulation and its features, check out the video located in the Screenshots folder called "Guide_with_examples_video". 

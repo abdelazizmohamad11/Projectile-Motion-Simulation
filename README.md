@@ -44,7 +44,8 @@ This MATLAB project simulates projectile motion in both 2D and 3D environments u
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/Projectile-Motion-Simulation.git
-2.Set up MATLAB:
+   
+2. Set up MATLAB:
 Ensure you have MATLAB installed with the following toolboxes:
 -App Designer
 -Simulink

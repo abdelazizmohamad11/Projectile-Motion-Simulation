@@ -2,6 +2,10 @@
 
 This MATLAB project simulates projectile motion in both 2D and 3D environments under different conditions, allowing users to explore how different variables affect the motion.
 
+## Project Overview
+- Created by: Abdelaziz Mohamad
+- Date of Completion: Mai 2023
+- Project Type: MATLAB Application (2D/3D Simulation)
 ## Features
 ### 2D Simulation
 - Simulates the motion of a projectile with and without air resistance.
